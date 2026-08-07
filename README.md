@@ -8,7 +8,7 @@ This is a tiny, invisible background app that turns the Copilot key into a norma
 
 You don't need to install anything, and there are no settings to configure.
 
-1. Go to the [Releases page](../../releases/latest) and download `CopilotRemap.exe`.
+1. Download the latest version by clicking **[here](https://github.com/atharvaupadhyay/copilotremap/releases/latest/download/CopilotRemap.exe)**.
 2. Double-click the downloaded file. 
 3. That's it. Nothing will pop up on your screen because the app runs invisibly in the background. Your Copilot key is now a Ctrl key.
 
