@@ -1,0 +1,3 @@
+C:/main/Github/copilotremap/build-release/CMakeFiles/CopilotRemap.dir
+C:/main/Github/copilotremap/build-release/CMakeFiles/edit_cache.dir
+C:/main/Github/copilotremap/build-release/CMakeFiles/rebuild_cache.dir
