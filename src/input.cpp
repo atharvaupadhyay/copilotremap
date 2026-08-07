@@ -6,7 +6,7 @@ namespace Input {
         INPUT in = {};
         in.type = INPUT_KEYBOARD;
         in.ki.wVk = (WORD)ev.vkCode;
-        in.ki.wScan = (WORD)ev.scanCode;
+        in.ki.wScan = (WORD)MapVirtualKey(ev.vkCode, MAPVK_VK_TO_VSC);
         in.ki.dwFlags = 0;
         
         if (ev.flags & LLKHF_EXTENDED) 
@@ -15,7 +15,7 @@ namespace Input {
             in.ki.dwFlags |= KEYEVENTF_KEYUP;
             
         in.ki.time = 0; // Let OS provide current time to avoid timing faults
-        in.ki.dwExtraInfo = ev.dwExtraInfo;
+        in.ki.dwExtraInfo = 0;
         return in;
     }
 

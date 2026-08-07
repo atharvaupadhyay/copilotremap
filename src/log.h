@@ -1,17 +1,38 @@
 #pragma once
 #include <windows.h>
-#include <stdio.h>
+#include <cstdarg>
+#include <cstdio>
 
 #ifdef _DEBUG
-inline void LogDebug(const char* format, ...) {
-    char buffer[256];
+
+inline void LogDebug(const char* format, ...)
+{
+    char buffer[1024];
+
     va_list args;
     va_start(args, format);
-    vsnprintf(buffer, sizeof(buffer), format, args);
-    va_end(args);
-    OutputDebugStringA(buffer);
-}
-#define LOG(...) LogDebug(__VA_ARGS__)
+
+#if defined(_MSC_VER)
+    vsnprintf_s(buffer, sizeof(buffer), _TRUNCATE, format, args);
 #else
-#define LOG(...)
+    vsnprintf(buffer, sizeof(buffer), format, args);
+    buffer[sizeof(buffer) - 1] = '\0';
+#endif
+
+    va_end(args);
+
+    // DebugView / Visual Studio Output window
+    OutputDebugStringA(buffer);
+
+    // Also print to stdout (useful for console builds)
+    std::fputs(buffer, stdout);
+    std::fflush(stdout);
+}
+
+#define LOG(...) LogDebug(__VA_ARGS__)
+
+#else
+
+#define LOG(...) ((void)0)
+
 #endif

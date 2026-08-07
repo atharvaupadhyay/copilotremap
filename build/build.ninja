@@ -53,7 +53,7 @@ build CMakeFiles/CtrlPilot.dir/src/main.cpp.obj: CXX_COMPILER__CtrlPilot_unscann
   CONFIG = Release
   DEFINES = -DUNICODE -D_UNICODE
   DEP_FILE = CMakeFiles\CtrlPilot.dir\src\main.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -std=gnu++20
+  FLAGS = -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -Wpedantic -Werror -O3 -flto
   OBJECT_DIR = CMakeFiles\CtrlPilot.dir
   OBJECT_FILE_DIR = CMakeFiles\CtrlPilot.dir\src
   TARGET_SUPPORT_DIR = CMakeFiles\CtrlPilot.dir
@@ -62,7 +62,7 @@ build CMakeFiles/CtrlPilot.dir/src/hook.cpp.obj: CXX_COMPILER__CtrlPilot_unscann
   CONFIG = Release
   DEFINES = -DUNICODE -D_UNICODE
   DEP_FILE = CMakeFiles\CtrlPilot.dir\src\hook.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -std=gnu++20
+  FLAGS = -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -Wpedantic -Werror -O3 -flto
   OBJECT_DIR = CMakeFiles\CtrlPilot.dir
   OBJECT_FILE_DIR = CMakeFiles\CtrlPilot.dir\src
   TARGET_SUPPORT_DIR = CMakeFiles\CtrlPilot.dir
@@ -71,7 +71,7 @@ build CMakeFiles/CtrlPilot.dir/src/state_machine.cpp.obj: CXX_COMPILER__CtrlPilo
   CONFIG = Release
   DEFINES = -DUNICODE -D_UNICODE
   DEP_FILE = CMakeFiles\CtrlPilot.dir\src\state_machine.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -std=gnu++20
+  FLAGS = -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -Wpedantic -Werror -O3 -flto
   OBJECT_DIR = CMakeFiles\CtrlPilot.dir
   OBJECT_FILE_DIR = CMakeFiles\CtrlPilot.dir\src
   TARGET_SUPPORT_DIR = CMakeFiles\CtrlPilot.dir
@@ -80,7 +80,7 @@ build CMakeFiles/CtrlPilot.dir/src/input.cpp.obj: CXX_COMPILER__CtrlPilot_unscan
   CONFIG = Release
   DEFINES = -DUNICODE -D_UNICODE
   DEP_FILE = CMakeFiles\CtrlPilot.dir\src\input.cpp.obj.d
-  FLAGS = -O3 -DNDEBUG -std=gnu++20
+  FLAGS = -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -Wpedantic -Werror -O3 -flto
   OBJECT_DIR = CMakeFiles\CtrlPilot.dir
   OBJECT_FILE_DIR = CMakeFiles\CtrlPilot.dir\src
   TARGET_SUPPORT_DIR = CMakeFiles\CtrlPilot.dir
@@ -96,7 +96,7 @@ build CMakeFiles/CtrlPilot.dir/src/input.cpp.obj: CXX_COMPILER__CtrlPilot_unscan
 build CtrlPilot.exe: CXX_EXECUTABLE_LINKER__CtrlPilot_Release CMakeFiles/CtrlPilot.dir/src/main.cpp.obj CMakeFiles/CtrlPilot.dir/src/hook.cpp.obj CMakeFiles/CtrlPilot.dir/src/state_machine.cpp.obj CMakeFiles/CtrlPilot.dir/src/input.cpp.obj
   CONFIG = Release
   FLAGS = -O3 -DNDEBUG
-  LINK_FLAGS = -mwindows
+  LINK_FLAGS = -mwindows -flto
   LINK_LIBRARIES = -luser32  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CtrlPilot.dir
   POST_BUILD = cd .

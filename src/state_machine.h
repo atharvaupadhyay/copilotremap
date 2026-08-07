@@ -15,47 +15,37 @@ enum class EventType {
     Timeout
 };
 
-enum class Action {
-    Pass,
-    Suppress,
-    BufferCurrent,
-    ClearBuffer,
-    InjectBuffered,
-    InjectCurrent,
-    InjectCtrlDown,
-    InjectCtrlUp,
-    StartTimer,
-    StopTimer
+struct Decision {
+    bool suppress = false;
+    bool bufferCurrent = false;
+    bool replayBuffer = false;
+    bool clearBuffer = false;
+    bool injectCtrlDown = false;
+    bool injectCtrlUp = false;
+    bool startTimer = false;
+    bool stopTimer = false;
 };
 
 static_assert(std::is_trivially_copyable_v<EventType>);
-static_assert(std::is_trivially_copyable_v<Action>);
-
-struct ActionList {
-    std::array<Action, 8> actions;
-    size_t count = 0;
-
-    void add(Action a) {
-        if (count < actions.size()) {
-            actions[count++] = a;
-        }
-    }
-};
+static_assert(std::is_trivially_copyable_v<Decision>);
 
 class StateMachine {
 public:
     void Reset();
-    ActionList ProcessEvent(EventType event);
-    bool IsCtrlInjected() const;
+    Decision ProcessEvent(EventType event);
+    const char* GetStateName() const;
 
 private:
     enum class State {
         IDLE,
-        PENDING_WIN,
-        PENDING_WIN_SHIFT,
-        COPILOT_ACTIVE
+        PENDING_LWIN,
+        PENDING_LSHIFT,
+        PENDING_BOTH,
+        COPILOT_ACTIVE,
+        WAIT_RELEASE
     };
 
     State currentState = State::IDLE;
-    bool ctrlInjected = false;
+    bool seenWinUp = false;
+    bool seenShiftUp = false;
 };

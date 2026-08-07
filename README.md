@@ -16,7 +16,7 @@ Because it sends real modifier keys (`Win` and `Shift`), intercepting it incorre
 CtrlPilot solves this by utilizing a rigorous, zero-allocation, purely event-driven architecture running on a low-level keyboard hook (`WH_KEYBOARD_LL`). 
 
 ### Key Features
-- **Event-Driven Resolving:** Normal typing isn't punished. If you press `Win` and then `R`, the utility instantly realizes it's not the Copilot sequence, flushes the buffered `Win` key, and processes the `R` key with absolutely **no perceptible latency**.
+- **Event-Driven Resolving:** Normal typing isn't punished. If you press `Win` and then `R`, the utility instantly realizes it's not the Copilot sequence, flushes the buffered `Win` key, and processes the `R` key with absolutely **no perceptible latency during normal use.**
 - **Atomic Batch Injection:** When replaying buffered keys, CtrlPilot uses a batched `SendInput` payload. This guarantees that interleaved hardware events (e.g. mashing the keyboard) cannot split the injected sequence, ensuring complete deterministic behavior under the Win32 input model.
 - **Zero Heap Allocations:** The hot-path (`KeyboardProc`) allocates absolutely nothing on the heap. `std::vector` and dynamic sizing are completely banned; everything operates natively on `std::array` stack buffers.
 - **OS Lifecycle Safety:** Includes a hidden message-only window that catches `WM_QUERYENDSESSION` and `WM_ENDSESSION`. If you hold the Copilot key while the system shuts down or the session ends, CtrlPilot will proactively inject a `Left Ctrl Up` event, guaranteeing no stuck keys.

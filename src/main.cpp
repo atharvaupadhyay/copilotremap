@@ -19,6 +19,11 @@ static LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lPara
             }
             return 0;
             
+        case WM_KILLFOCUS:
+        case WM_CANCELMODE:
+            Hook::CleanUp();
+            return 0;
+            
         case WM_DESTROY:
             PostQuitMessage(0);
             return 0;
