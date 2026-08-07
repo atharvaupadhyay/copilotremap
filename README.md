@@ -13,11 +13,12 @@ You don't need to install anything, and there are no settings to configure.
 3. That's it. Nothing will pop up on your screen because the app runs invisibly in the background. Your Copilot key is now a Ctrl key.
 
 ### Make it run on startup
-If you want this running all the time, you can set it to start with Windows automatically:
-1. Press `Win + R` on your keyboard to open the Run dialog.
-2. Type `shell:startup` and press Enter. This will open your Startup folder.
-3. Right-click the `CopilotRemap.exe` file you downloaded and select "Create shortcut".
-4. Drag that new shortcut into the Startup folder. 
+If you want CopilotRemap to start automatically every time you sign in to Windows:
+1. Press **Win + R** to open the Run dialog.
+2. Type `shell:startup` and press **Enter**. This opens your Startup folder.
+3. Copy **`CopilotRemap.exe`** into the Startup folder.
+
+CopilotRemap will now launch automatically each time you sign in to Windows.
 
 ### Why does Windows show a SmartScreen warning?
 CopilotRemap is a new, unsigned application. Windows SmartScreen uses reputation-based protection, so new applications often
