@@ -19,6 +19,10 @@ If you want this running all the time, you can set it to start with Windows auto
 3. Right-click the `CopilotRemap.exe` file you downloaded and select "Create shortcut".
 4. Drag that new shortcut into the Startup folder. 
 
+### Why does Windows show a SmartScreen warning?
+CopilotRemap is a new, unsigned application. Windows SmartScreen uses reputation-based protection, so new applications often
+show a warning until they build reputation over time. The source code is fully available in this repository for anyone to inspect.
+
 ### How to stop the app
 Because the app runs invisibly to save resources, there is no system tray icon or exit button. If you ever want to stop it:
 1. Press `Ctrl + Shift + Esc` to open Task Manager.
