@@ -32,7 +32,7 @@ static LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lPara
 }
 
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int) {
-    HANDLE hMutex = CreateMutex(nullptr, TRUE, L"CtrlPilot_SingleInstance_Mutex");
+    HANDLE hMutex = CreateMutex(nullptr, TRUE, L"CopilotRemap_SingleInstance_Mutex");
     if (GetLastError() == ERROR_ALREADY_EXISTS) {
         return 0; // Already running
     }
@@ -40,17 +40,17 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE, LPSTR, int) {
     WNDCLASS wc = {};
     wc.lpfnWndProc = WndProc;
     wc.hInstance = hInstance;
-    wc.lpszClassName = L"CtrlPilot_MessageWindow";
+    wc.lpszClassName = L"CopilotRemap_MessageWindow";
     RegisterClass(&wc);
 
     HWND hwnd = CreateWindowEx(
-        0, wc.lpszClassName, L"CtrlPilot", 
+        0, wc.lpszClassName, L"Copilot Remap", 
         0, 0, 0, 0, 0, 
         HWND_MESSAGE, nullptr, hInstance, nullptr
     );
 
     if (!Hook::InstallKeyboardHook(hwnd)) {
-        MessageBox(nullptr, L"Failed to install keyboard hook.", L"CtrlPilot Error", MB_ICONERROR);
+        MessageBox(nullptr, L"Failed to install keyboard hook.", L"Copilot Remap Error", MB_ICONERROR);
         return 1;
     }
 

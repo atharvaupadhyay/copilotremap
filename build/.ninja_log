@@ -1,11 +1,6 @@
 # ninja log v7
-9	134	8077869553357604	CMakeFiles/CtrlPilot.dir/src/state_machine.cpp.obj	612463291dc64f78
-2	726	8077866024312212	CMakeFiles/CtrlPilot.dir/src/main.cpp.obj	a292ca43427b3ef7
-13	729	8077866024422241	CMakeFiles/CtrlPilot.dir/src/input.cpp.obj	a1da8283463989c4
-4	729	8077871613968337	CMakeFiles/CtrlPilot.dir/src/hook.cpp.obj	d9de7249ad9cd434
-729	827	8077871621213232	CtrlPilot.exe	593a85a63795f839
-12	150	8077873067051325	CMakeFiles/CtrlPilot.dir/src/state_machine.cpp.obj	5eb6a3b7ea4ab069
-4	746	8077873066960881	CMakeFiles/CtrlPilot.dir/src/main.cpp.obj	14fbf3e92d0407a9
-16	747	8077873067086149	CMakeFiles/CtrlPilot.dir/src/input.cpp.obj	f985405747c93724
-3	735	8077873247766787	CMakeFiles/CtrlPilot.dir/src/hook.cpp.obj	72b604e2e751d05e
-735	1425	8077873255085131	CtrlPilot.exe	4ba1b3912da23d86
+10	155	8077876409639024	CMakeFiles/CopilotRemap.dir/src/state_machine.cpp.obj	6101515fdee4ba98
+15	784	8077876409689036	CMakeFiles/CopilotRemap.dir/src/input.cpp.obj	f2e0b7d1a2df702b
+2	787	8077876409559013	CMakeFiles/CopilotRemap.dir/src/main.cpp.obj	efb9ccdfbb40c97c
+6	848	8077876409599023	CMakeFiles/CopilotRemap.dir/src/hook.cpp.obj	915dea3556f8ed60
+848	1104	8077876418019624	CopilotRemap.exe	d039caefc41ad967

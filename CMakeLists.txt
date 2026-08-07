@@ -1,13 +1,13 @@
 cmake_minimum_required(VERSION 3.20)
 
-project(CtrlPilot LANGUAGES CXX)
+project(CopilotRemap LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_compile_definitions(UNICODE _UNICODE)
 
-add_executable(CtrlPilot WIN32
+add_executable(CopilotRemap WIN32
     src/main.cpp
     src/hook.cpp
     src/hook.h
@@ -19,11 +19,11 @@ add_executable(CtrlPilot WIN32
     src/log.h
 )
 
-target_link_libraries(CtrlPilot PRIVATE user32)
+target_link_libraries(CopilotRemap PRIVATE user32)
 
 if(MSVC)
 
-    target_compile_options(CtrlPilot PRIVATE
+    target_compile_options(CopilotRemap PRIVATE
         /W4
         /WX
         /permissive-
@@ -32,16 +32,16 @@ if(MSVC)
 
     if(CMAKE_BUILD_TYPE STREQUAL "Release")
 
-        set_property(TARGET CtrlPilot PROPERTY
+        set_property(TARGET CopilotRemap PROPERTY
             INTERPROCEDURAL_OPTIMIZATION TRUE)
 
-        target_compile_options(CtrlPilot PRIVATE
+        target_compile_options(CopilotRemap PRIVATE
             /O2
             /Gy
             /Gw
         )
 
-        target_link_options(CtrlPilot PRIVATE
+        target_link_options(CopilotRemap PRIVATE
             /OPT:REF
             /OPT:ICF
         )
@@ -50,7 +50,7 @@ if(MSVC)
 
 else()
 
-    target_compile_options(CtrlPilot PRIVATE
+    target_compile_options(CopilotRemap PRIVATE
         -Wall
         -Wextra
         -Wpedantic
@@ -58,17 +58,17 @@ else()
     )
 
     if(CMAKE_BUILD_TYPE STREQUAL "Debug")
-        target_compile_definitions(CtrlPilot PRIVATE _DEBUG)
+        target_compile_definitions(CopilotRemap PRIVATE _DEBUG)
     endif()
 
     if(CMAKE_BUILD_TYPE STREQUAL "Debug")
 
-        target_compile_options(CtrlPilot PRIVATE
+        target_compile_options(CopilotRemap PRIVATE
             -O0
             -g3
         )
 
-        target_compile_definitions(CtrlPilot PRIVATE
+        target_compile_definitions(CopilotRemap PRIVATE
             _DEBUG
         )
 
@@ -76,12 +76,12 @@ else()
 
     if(CMAKE_BUILD_TYPE STREQUAL "Release")
 
-        target_compile_options(CtrlPilot PRIVATE
+        target_compile_options(CopilotRemap PRIVATE
             -O3
             -flto
         )
 
-        target_link_options(CtrlPilot PRIVATE
+        target_link_options(CopilotRemap PRIVATE
             -flto
         )
 
