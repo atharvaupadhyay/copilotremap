@@ -1,6 +1,6 @@
 # ninja log v7
-10	128	8077879876687931	CMakeFiles/CopilotRemap.dir/src/state_machine.cpp.obj	6101515fdee4ba98
-13	681	8077879876727931	CMakeFiles/CopilotRemap.dir/src/input.cpp.obj	f2e0b7d1a2df702b
-2	682	8077879876617937	CMakeFiles/CopilotRemap.dir/src/main.cpp.obj	efb9ccdfbb40c97c
-6	759	8077879876647934	CMakeFiles/CopilotRemap.dir/src/hook.cpp.obj	915dea3556f8ed60
-759	1003	8077879884173508	CopilotRemap.exe	d039caefc41ad967
+11	131	8081261542358978	CMakeFiles/CopilotRemap.dir/src/state_machine.cpp.obj	6101515fdee4ba98
+2	722	8081261542275666	CMakeFiles/CopilotRemap.dir/src/main.cpp.obj	efb9ccdfbb40c97c
+15	724	8081261542389066	CMakeFiles/CopilotRemap.dir/src/input.cpp.obj	f2e0b7d1a2df702b
+7	781	8081261542319597	CMakeFiles/CopilotRemap.dir/src/hook.cpp.obj	915dea3556f8ed60
+4	362	8081261833503218	CopilotRemap.exe	d039caefc41ad967

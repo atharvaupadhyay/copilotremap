@@ -35,6 +35,11 @@ public:
     Decision ProcessEvent(EventType event);
     const char* GetStateName() const;
 
+    bool physicalLWinDown = false;
+    bool physicalLShiftDown = false;
+    bool copilotActive = false;
+    bool syntheticCtrlDown = false;
+
 private:
     enum class State {
         IDLE,
@@ -46,6 +51,4 @@ private:
     };
 
     State currentState = State::IDLE;
-    bool seenWinUp = false;
-    bool seenShiftUp = false;
 };

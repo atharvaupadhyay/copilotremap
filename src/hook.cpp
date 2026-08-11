@@ -59,13 +59,17 @@ namespace Hook {
         std::array<INPUT, 16> inputsToInject{};
         size_t injectCount = 0;
 
+        if (decision.bufferCurrent && currentEvent) {
+            g_Buffer.push_back(*currentEvent);
+        }
+
         // 1. Replay buffered events
         if (decision.replayBuffer) {
             for (size_t j = 0; j < g_Buffer.count; ++j) {
                 if (injectCount < inputsToInject.size()) {
                     INPUT in = Input::ToInput(g_Buffer.events[j]);
                     inputsToInject[injectCount++] = in;
-                    LOG("SendInput:\nReplay VK=0x%02X\n", in.ki.wVk);
+                    LOG("SendInput: Replayed physical VK=0x%02X (Down=%d)\n", in.ki.wVk, (in.ki.dwFlags & KEYEVENTF_KEYUP) == 0);
                 }
             }
         }
@@ -75,14 +79,14 @@ namespace Hook {
             if (injectCount < inputsToInject.size()) {
                 inputsToInject[injectCount++] = Input::CreateCtrlInput(true);
                 g_ctrlIsInjected = true;
-                LOG("SendInput:\nCtrl Down\n");
+                LOG("SendInput: Injected synthetic Ctrl DOWN\n");
             }
         }
         if (decision.injectCtrlUp && g_ctrlIsInjected) {
             if (injectCount < inputsToInject.size()) {
                 inputsToInject[injectCount++] = Input::CreateCtrlInput(false);
                 g_ctrlIsInjected = false;
-                LOG("SendInput:\nCtrl Up\n");
+                LOG("SendInput: Injected synthetic Ctrl UP\n");
             }
         }
 
@@ -108,10 +112,6 @@ namespace Hook {
         // 4. Clear buffer
         if (decision.clearBuffer) {
             g_Buffer.clear();
-        }
-        
-        if (decision.bufferCurrent && currentEvent) {
-            g_Buffer.push_back(*currentEvent);
         }
     }
 
@@ -141,21 +141,20 @@ namespace Hook {
                 
                 const char* msgName = (wParam == WM_KEYDOWN) ? "WM_KEYDOWN" : (wParam == WM_SYSKEYDOWN) ? "WM_SYSKEYDOWN" : (wParam == WM_KEYUP) ? "WM_KEYUP" : (wParam == WM_SYSKEYUP) ? "WM_SYSKEYUP" : "UNKNOWN";
                 
-                LOG("[%lu]\n%s\nVK=0x%02X\nSC=0x%02X\nFLAGS=0x%X\nSTATE=%s\nEVENT=%s\nDECISION:\n  suppress=%d\n  replay=%d\n  buffer=%d\n  clear=%d\n  ctrlDown=%d\n  ctrlUp=%d\nNEXT=%s\n\n",
+                LOG("[%lu] EVENT: %s | %s | VK=0x%02X SC=0x%02X FLAGS=0x%X\n"
+                    "  PhysLWin: %d | PhysLShift: %d | SynthCtrl: %d\n"
+                    "  TRANSITION: %s -> %s\n"
+                    "  DECISION: suppress=%d replay=%d buffer=%d clear=%d ctrlDown=%d ctrlUp=%d\n"
+                    "  Buffer Size Before: %zu\n\n",
                     GetTickCount(),
                     msgName,
-                    kbd->vkCode,
-                    kbd->scanCode,
-                    kbd->flags,
-                    stateBefore,
                     GetEventName(eventType),
-                    decision.suppress,
-                    decision.replayBuffer,
-                    decision.bufferCurrent,
-                    decision.clearBuffer,
-                    decision.injectCtrlDown,
-                    decision.injectCtrlUp,
-                    stateAfter
+                    kbd->vkCode, kbd->scanCode, kbd->flags,
+                    g_StateMachine.physicalLWinDown, g_StateMachine.physicalLShiftDown, g_StateMachine.syntheticCtrlDown,
+                    stateBefore, stateAfter,
+                    decision.suppress, decision.replayBuffer, decision.bufferCurrent,
+                    decision.clearBuffer, decision.injectCtrlDown, decision.injectCtrlUp,
+                    g_Buffer.count
                 );
 #endif
                 
@@ -199,16 +198,17 @@ namespace Hook {
 #ifdef _DEBUG
         const char* stateAfter = g_StateMachine.GetStateName();
         
-        LOG("[%lu]\nWM_TIMER\nVK=N/A\nSC=N/A\nFLAGS=N/A\nSTATE=%s\nEVENT=TIMEOUT\nDECISION:\n  suppress=%d\n  replay=%d\n  buffer=%d\n  clear=%d\n  ctrlDown=%d\n  ctrlUp=%d\nNEXT=%s\n\n",
+        LOG("[%lu] EVENT: TIMEOUT\n"
+            "  PhysLWin: %d | PhysLShift: %d | SynthCtrl: %d\n"
+            "  TRANSITION: %s -> %s\n"
+            "  DECISION: suppress=%d replay=%d buffer=%d clear=%d ctrlDown=%d ctrlUp=%d\n"
+            "  Buffer Size Before: %zu\n\n",
             GetTickCount(),
-            stateBefore,
-            decision.suppress,
-            decision.replayBuffer,
-            decision.bufferCurrent,
-            decision.clearBuffer,
-            decision.injectCtrlDown,
-            decision.injectCtrlUp,
-            stateAfter
+            g_StateMachine.physicalLWinDown, g_StateMachine.physicalLShiftDown, g_StateMachine.syntheticCtrlDown,
+            stateBefore, stateAfter,
+            decision.suppress, decision.replayBuffer, decision.bufferCurrent,
+            decision.clearBuffer, decision.injectCtrlDown, decision.injectCtrlUp,
+            g_Buffer.count
         );
 #endif
 
@@ -221,7 +221,7 @@ namespace Hook {
             UINT sent = SendInput(1, &in, sizeof(INPUT));
             g_ctrlIsInjected = false;
 #ifdef _DEBUG
-            LOG("SendInput:\nCtrl Up (CleanUp)\n");
+            LOG("SendInput: Injected synthetic Ctrl UP (CleanUp)\n");
             LOG("SendInput returned %u/1\n", sent);
 #else
             (void)sent;

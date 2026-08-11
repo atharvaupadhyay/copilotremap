@@ -2,8 +2,10 @@
 
 void StateMachine::Reset() {
     currentState = State::IDLE;
-    seenWinUp = false;
-    seenShiftUp = false;
+    physicalLWinDown = false;
+    physicalLShiftDown = false;
+    copilotActive = false;
+    syntheticCtrlDown = false;
 }
 
 const char* StateMachine::GetStateName() const {
@@ -20,6 +22,12 @@ const char* StateMachine::GetStateName() const {
 
 Decision StateMachine::ProcessEvent(EventType event) {
     Decision d;
+
+    // Update physical state independently
+    if (event == EventType::LWinDown) physicalLWinDown = true;
+    else if (event == EventType::LWinUp) physicalLWinDown = false;
+    else if (event == EventType::LShiftDown) physicalLShiftDown = true;
+    else if (event == EventType::LShiftUp) physicalLShiftDown = false;
 
     switch (currentState) {
         case State::IDLE:
@@ -47,9 +55,18 @@ Decision StateMachine::ProcessEvent(EventType event) {
                 d.startTimer = true;
                 return d;
             }
+            if (event == EventType::Timeout) {
+                currentState = State::IDLE;
+                d.stopTimer = true;
+                d.replayBuffer = true;
+                d.clearBuffer = true;
+                return d;
+            }
             
             currentState = State::IDLE;
             d.stopTimer = true;
+            d.bufferCurrent = true;
+            d.suppress = true;
             d.replayBuffer = true;
             d.clearBuffer = true;
             return d;
@@ -62,9 +79,18 @@ Decision StateMachine::ProcessEvent(EventType event) {
                 d.startTimer = true;
                 return d;
             }
+            if (event == EventType::Timeout) {
+                currentState = State::IDLE;
+                d.stopTimer = true;
+                d.replayBuffer = true;
+                d.clearBuffer = true;
+                return d;
+            }
             
             currentState = State::IDLE;
             d.stopTimer = true;
+            d.bufferCurrent = true;
+            d.suppress = true;
             d.replayBuffer = true;
             d.clearBuffer = true;
             return d;
@@ -72,63 +98,77 @@ Decision StateMachine::ProcessEvent(EventType event) {
         case State::PENDING_BOTH:
             if (event == EventType::F23Down) {
                 currentState = State::COPILOT_ACTIVE;
+                copilotActive = true;
                 d.stopTimer = true;
                 d.clearBuffer = true;
                 d.suppress = true;
                 d.injectCtrlDown = true;
+                syntheticCtrlDown = true;
+                return d;
+            }
+            if (event == EventType::Timeout) {
+                currentState = State::IDLE;
+                d.stopTimer = true;
+                d.replayBuffer = true;
+                d.clearBuffer = true;
                 return d;
             }
             
             currentState = State::IDLE;
             d.stopTimer = true;
+            d.bufferCurrent = true;
+            d.suppress = true;
             d.replayBuffer = true;
             d.clearBuffer = true;
             return d;
 
         case State::COPILOT_ACTIVE:
-            if (event == EventType::F23Down || event == EventType::LWinDown || event == EventType::LShiftDown) {
-                d.suppress = true;
+            if (event == EventType::Timeout) {
                 return d;
             }
-            if (event == EventType::LWinUp || event == EventType::LShiftUp) {
-                // Do not release on the first modifier-up event.
+            if (event == EventType::F23Down || event == EventType::LWinDown || event == EventType::LShiftDown ||
+                event == EventType::LWinUp || event == EventType::LShiftUp) {
                 d.suppress = true;
                 return d;
             }
             if (event == EventType::F23Up) {
-                currentState = State::WAIT_RELEASE;
-                seenWinUp = false;
-                seenShiftUp = false;
-                d.injectCtrlUp = true;
                 d.suppress = true;
+                d.injectCtrlUp = true;
+                syntheticCtrlDown = false;
+                copilotActive = false;
+
+                if (!physicalLWinDown && !physicalLShiftDown) {
+                    currentState = State::IDLE;
+                } else {
+                    currentState = State::WAIT_RELEASE;
+                }
                 return d;
             }
             return d;
 
         case State::WAIT_RELEASE:
-            if (event == EventType::LWinUp) {
-                seenWinUp = true;
+            if (event == EventType::Timeout) {
+                return d;
+            }
+            if (event == EventType::LWinUp || event == EventType::LShiftUp || 
+                event == EventType::LWinDown || event == EventType::LShiftDown) {
                 d.suppress = true;
-            } else if (event == EventType::LShiftUp) {
-                seenShiftUp = true;
-                d.suppress = true;
-            } else {
-                currentState = State::IDLE;
             }
 
-            if (seenWinUp && seenShiftUp) {
+            if (!physicalLWinDown && !physicalLShiftDown) {
                 currentState = State::IDLE;
             }
             return d;
 
         default:
-            // Emergency fallback
             currentState = State::IDLE;
-            seenWinUp = false;
-            seenShiftUp = false;
             d.stopTimer = true;
             d.clearBuffer = true;
-            d.injectCtrlUp = true;
+            if (syntheticCtrlDown) {
+                d.injectCtrlUp = true;
+                syntheticCtrlDown = false;
+            }
+            copilotActive = false;
             return d;
     }
 }

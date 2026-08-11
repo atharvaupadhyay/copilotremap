@@ -55,7 +55,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
     searched_directories:
@@ -254,7 +253,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -308,7 +306,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
     searched_directories:
@@ -666,7 +663,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -722,7 +718,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -793,7 +788,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
     searched_directories:
@@ -827,7 +821,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -876,7 +869,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
     searched_directories:
@@ -910,7 +902,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -959,7 +950,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
     searched_directories:
@@ -993,7 +983,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -1042,7 +1031,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
     searched_directories:
@@ -1076,7 +1064,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -1125,7 +1112,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
     searched_directories:
@@ -1159,7 +1145,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -1208,7 +1193,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
     searched_directories:
@@ -1242,7 +1226,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -1291,7 +1274,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
     searched_directories:
@@ -1325,7 +1307,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -1374,7 +1355,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
     searched_directories:
@@ -1408,7 +1388,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -1457,7 +1436,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
     searched_directories:
@@ -1491,7 +1469,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -1540,7 +1517,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
     searched_directories:
@@ -1574,7 +1550,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -1623,7 +1598,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
     searched_directories:
@@ -1705,9 +1679,6 @@ events:
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/tapi.com"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/tapi.exe"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/tapi"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/tapi.com"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/tapi.exe"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/tapi"
       - "C:/Users/atharva/AppData/Roaming/npm/tapi.com"
       - "C:/Users/atharva/AppData/Roaming/npm/tapi.exe"
       - "C:/Users/atharva/AppData/Roaming/npm/tapi"
@@ -1743,7 +1714,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -1795,7 +1765,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
     searched_directories:
@@ -1877,9 +1846,6 @@ events:
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16.1.com"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16.1.exe"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16.1"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ar-16.1.com"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ar-16.1.exe"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ar-16.1"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ar-16.1.com"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ar-16.1.exe"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ar-16.1"
@@ -1964,9 +1930,6 @@ events:
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16.com"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16.exe"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-16"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ar-16.com"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ar-16.exe"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ar-16"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ar-16.com"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ar-16.exe"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ar-16"
@@ -2051,9 +2014,6 @@ events:
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar16.com"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar16.exe"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar16"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ar16.com"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ar16.exe"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ar16"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ar16.com"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ar16.exe"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ar16"
@@ -2090,7 +2050,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -2142,7 +2101,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
     searched_directories:
@@ -2224,9 +2182,6 @@ events:
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16.1.com"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16.1.exe"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16.1"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ranlib-16.1.com"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ranlib-16.1.exe"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ranlib-16.1"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ranlib-16.1.com"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ranlib-16.1.exe"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ranlib-16.1"
@@ -2311,9 +2266,6 @@ events:
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16.com"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16.exe"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-16"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ranlib-16.com"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ranlib-16.exe"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ranlib-16"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ranlib-16.com"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ranlib-16.exe"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ranlib-16"
@@ -2398,9 +2350,6 @@ events:
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib16.com"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib16.exe"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib16"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ranlib16.com"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ranlib16.exe"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/gcc-ranlib16"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ranlib16.com"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ranlib16.exe"
       - "C:/Users/atharva/AppData/Roaming/npm/gcc-ranlib16"
@@ -2437,7 +2386,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
   -
@@ -2489,7 +2437,6 @@ events:
       - "C:/ProgramData/Atharva/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/GitHubDesktop/bin/"
       - "C:/Users/atharva/AppData/Local/Programs/Microsoft VS Code/bin/"
-      - "C:/Users/atharva/AppData/Local/PowerToys/DSCModules/"
       - "C:/Users/atharva/AppData/Roaming/npm/"
       - "C:/Users/atharva/AppData/Local/Programs/Ollama/"
       - "C:/Program Files/bin/"
@@ -2589,7 +2536,6 @@ events:
         - "C:\\ProgramData\\Atharva\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\GitHubDesktop\\bin"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Users\\atharva\\AppData\\Local\\PowerToys\\DSCModules\\"
         - "C:\\Users\\atharva\\AppData\\Roaming\\npm"
         - "C:\\Users\\atharva\\AppData\\Local\\Programs\\Ollama"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/CopilotRemap"
@@ -2607,8 +2553,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/main/Github/copilotremap/build-release/CMakeFiles/CMakeScratch/TryCompile-4qnm41"
-      binary: "C:/main/Github/copilotremap/build-release/CMakeFiles/CMakeScratch/TryCompile-4qnm41"
+      source: "C:/main/Github/copilotremap/build-release/CMakeFiles/CMakeScratch/TryCompile-8a6yi7"
+      binary: "C:/main/Github/copilotremap/build-release/CMakeFiles/CMakeScratch/TryCompile-8a6yi7"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2619,10 +2565,10 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: false
       stdout: |
-        Change Dir: 'C:/main/Github/copilotremap/build-release/CMakeFiles/CMakeScratch/TryCompile-4qnm41'
+        Change Dir: 'C:/main/Github/copilotremap/build-release/CMakeFiles/CMakeScratch/TryCompile-8a6yi7'
         
-        Run Build Command(s): C:/msys64/ucrt64/bin/ninja.exe -v cmTC_4131f
-        [1/2] C:\\msys64\\ucrt64\\bin\\c++.exe   -v -o CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj -c C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): C:/msys64/ucrt64/bin/ninja.exe -v cmTC_718a6
+        [1/2] C:\\msys64\\ucrt64\\bin\\c++.exe   -v -o CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj -c C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\c++.exe
         Target: x86_64-w64-mingw32
@@ -2630,8 +2576,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 16.1.0 (Rev5, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4131f.dir/'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_4131f.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\atharva\\AppData\\Local\\Temp\\ccU26wDo.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_718a6.dir/'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_718a6.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\atharva\\AppData\\Local\\Temp\\ccV9KHpG.s
         GNU C++20 (Rev5, Built by MSYS2 project) version 16.1.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 16.1.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.4.1, isl version isl-0.28-GMP
         
@@ -2655,13 +2601,13 @@ events:
          C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/include-fixed
         End of search list.
         Compiler executable checksum: c17fb94a142b10fdb3ae88ea0e837cbf
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4131f.dir/'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\atharva\\AppData\\Local\\Temp\\ccU26wDo.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_718a6.dir/'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\atharva\\AppData\\Local\\Temp\\ccV9KHpG.s
         GNU assembler version 2.47 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.47.20260726
         COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.'
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\msys64\\ucrt64\\bin\\c++.exe  -v -Wl,-v CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_4131f.exe -Wl,--out-implib,libcmTC_4131f.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.'
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\msys64\\ucrt64\\bin\\c++.exe  -v -Wl,-v CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_718a6.exe -Wl,--out-implib,libcmTC_718a6.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\c++.exe
         COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe
@@ -2672,12 +2618,12 @@ events:
         gcc version 16.1.0 (Rev5, Built by MSYS2 project) 
         COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4131f.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_4131f.'
-         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\atharva\\AppData\\Local\\Temp\\cc4pQgTw.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_4131f.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_4131f.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_718a6.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_718a6.'
+         C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\atharva\\AppData\\Local\\Temp\\ccZRQHuK.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_718a6.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_718a6.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
         collect2 version 16.1.0
-        C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\atharva\\AppData\\Local\\Temp\\cc4pQgTw.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_4131f.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_4131f.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
+        C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\atharva\\AppData\\Local\\Temp\\ccZRQHuK.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_718a6.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_718a6.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o
         GNU ld (GNU Binutils) 2.47.20260726
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4131f.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_4131f.'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_718a6.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_718a6.'
         
       exitCode: 0
   -
@@ -2716,10 +2662,10 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|wild))("|,| |$)]
-        ignore line: [Change Dir: 'C:/main/Github/copilotremap/build-release/CMakeFiles/CMakeScratch/TryCompile-4qnm41']
+        ignore line: [Change Dir: 'C:/main/Github/copilotremap/build-release/CMakeFiles/CMakeScratch/TryCompile-8a6yi7']
         ignore line: []
-        ignore line: [Run Build Command(s): C:/msys64/ucrt64/bin/ninja.exe -v cmTC_4131f]
-        ignore line: [[1/2] C:\\msys64\\ucrt64\\bin\\c++.exe   -v -o CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj -c C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): C:/msys64/ucrt64/bin/ninja.exe -v cmTC_718a6]
+        ignore line: [[1/2] C:\\msys64\\ucrt64\\bin\\c++.exe   -v -o CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj -c C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\c++.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -2727,8 +2673,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 16.1.0 (Rev5  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4131f.dir/']
-        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_4131f.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\atharva\\AppData\\Local\\Temp\\ccU26wDo.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_718a6.dir/']
+        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/cc1plus.exe -quiet -v -iprefix C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/ -D_REENTRANT C:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_718a6.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\atharva\\AppData\\Local\\Temp\\ccV9KHpG.s]
         ignore line: [GNU C++20 (Rev5  Built by MSYS2 project) version 16.1.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 16.1.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.4.1  isl version isl-0.28-GMP]
         ignore line: []
@@ -2752,8 +2698,8 @@ events:
         ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/include-fixed]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: c17fb94a142b10fdb3ae88ea0e837cbf]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4131f.dir/']
-        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\atharva\\AppData\\Local\\Temp\\ccU26wDo.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_718a6.dir/']
+        ignore line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\atharva\\AppData\\Local\\Temp\\ccV9KHpG.s]
         ignore line: [GNU assembler version 2.47 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.47.20260726]
         ignore line: [COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/]
@@ -2764,8 +2710,8 @@ events:
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\msys64\\ucrt64\\bin\\c++.exe  -v -Wl -v CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_4131f.exe -Wl --out-implib libcmTC_4131f.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [[2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && C:\\msys64\\ucrt64\\bin\\c++.exe  -v -Wl -v CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_718a6.exe -Wl --out-implib libcmTC_718a6.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\ucrt64\\bin\\c++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe]
@@ -2783,13 +2729,13 @@ events:
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4131f.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_4131f.']
-        link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\atharva\\AppData\\Local\\Temp\\cc4pQgTw.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_4131f.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_4131f.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_718a6.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_718a6.']
+        link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\atharva\\AppData\\Local\\Temp\\ccZRQHuK.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_718a6.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_718a6.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\atharva\\AppData\\Local\\Temp\\cc4pQgTw.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\atharva\\AppData\\Local\\Temp\\ccZRQHuK.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -2811,7 +2757,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_4131f.exe] ==> ignore
+          arg [cmTC_718a6.exe] ==> ignore
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o]
           arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0]
@@ -2821,9 +2767,9 @@ events:
           arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib]
           arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../..] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../..]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+          arg [CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_4131f.dll.a] ==> ignore
+          arg [libcmTC_718a6.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -2849,9 +2795,9 @@ events:
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o]
           arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o] ==> obj [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
         ignore line: [collect2 version 16.1.0]
-        link line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\atharva\\AppData\\Local\\Temp\\cc4pQgTw.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_4131f.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_4131f.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o] ==> linker [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe]
-        link line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\atharva\\AppData\\Local\\Temp\\cc4pQgTw.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_4131f.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_4131f.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o] ==> linker architecture flags [-m;i386pep]
-        ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\atharva\\AppData\\Local\\Temp\\cc4pQgTw.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_4131f.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_4131f.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_4131f.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
+        link line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\atharva\\AppData\\Local\\Temp\\ccZRQHuK.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_718a6.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_718a6.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o] ==> linker [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe]
+        link line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\atharva\\AppData\\Local\\Temp\\ccZRQHuK.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_718a6.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_718a6.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o] ==> linker architecture flags [-m;i386pep]
+        ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\atharva\\AppData\\Local\\Temp\\ccZRQHuK.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_718a6.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../.. -v CMakeFiles/cmTC_718a6.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_718a6.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/16.1.0/crtend.o]
         linker tool for 'CXX': C:/msys64/ucrt64/x86_64-w64-mingw32/bin/ld.exe -m;i386pep
         remove lib [msvcrt]
         remove lib [msvcrt]
